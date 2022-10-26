@@ -9,5 +9,4 @@ void main()
 	cout << sizeof(long) << endl;
 	cout << sizeof(short) << endl;
 
-
 }
