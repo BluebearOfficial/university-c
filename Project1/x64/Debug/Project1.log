@@ -1,6 +1,0 @@
-﻿  源.cpp
-C:\Users\bluebear\source\repos\Project1\源.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
-C:\Users\bluebear\source\repos\Project1\源.cpp(5,6): warning C4101: “a”: 未引用的局部变量
-C:\Users\bluebear\source\repos\Project1\源.cpp(5,12): warning C4101: “sum”: 未引用的局部变量
-C:\Users\bluebear\source\repos\Project1\源.cpp(5,9): warning C4101: “b”: 未引用的局部变量
-  Project1.vcxproj -> C:\Users\bluebear\source\repos\Project1\x64\Debug\Project1.exe
